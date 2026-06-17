@@ -107,15 +107,22 @@ swiggy Sales Analysis/
 ├── requirements.txt
 └── images/
 
-📷 Sample Visualizations
+## 📷 Sample Visualizations
 
-Add screenshots of:
+### Sales by Category
+![Sales by Category](images/sales_by_category.png)
 
-- Sales by Category
-- Top 5 Cities by Sales
-- Daily Sales Trend
-- Weekly Sales Trend
-- Quarterly Performance Analysis
+### Top 5 Cities by Sales
+![Top Cities](images/top5_cities.png)
+
+### Daily Sales Trend
+![Daily Trend](images/daily_sales_trend.png)
+
+### Weekly Sales Trend
+![Weekly Trend](images/weekly_sales_trend.png)
+
+### Quarterly Performance Analysis
+![Quarterly Performance](images/quarterly_performance.png)
 
 ---
 
